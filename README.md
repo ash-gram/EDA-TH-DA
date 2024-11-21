@@ -27,3 +27,8 @@ The data were collected by Tammy Kostecki-Dillon and involve 133 patients who pa
 **Study Details:**
 
 Patients maintained headache logs during the treatment program, which spanned approximately three years. They were encouraged to record their experiences starting four weeks before treatment and continuing for one month afterward. However, only 55 patients provided data preceding the onset of treatment.
+
+**Objectives Achieved**
+
+Exploratory Data Analysis with the Kostecki-Dillon dataset
+Loaded the dataset, explored its dimensions, summary, and performed data handling, data cleaning, univariate, bivariate and multivariate analysis. Completed all the tasks in parallel alignment to the theory sessions from module 2 to 7.
